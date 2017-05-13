@@ -1,0 +1,2 @@
+model_checkpoint_path: "advance_cnn"
+all_model_checkpoint_paths: "advance_cnn"

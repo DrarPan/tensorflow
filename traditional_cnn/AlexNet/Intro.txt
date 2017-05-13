@@ -1,0 +1,6 @@
+1. Instead of sigmoid, use ReLU as activation function
+2. Introducing Dropout
+3. Using Max pooling but not Average pooling
+4. Propose LRN
+5. GPU CUDA trainning
+6. Data enhencement

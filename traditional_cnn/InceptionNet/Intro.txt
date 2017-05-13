@@ -1,0 +1,4 @@
+1. Using average pooling
+2. More convolution layers with small kernels (3*1, 1*3, 1*1), less fully-connected layer
+3. Network in Network, introducing Inception Module
+4. Batch Normalization
